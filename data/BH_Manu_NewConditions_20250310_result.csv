@@ -1,2 +1,0 @@
-Transformation ID,Pred Rank,Aryl Halide SMILES,Amine SMILES,Catalyst SMILES,Base SMILES,Solvent SMILES,Product SMILES,Catalyst Name,Base Name,Solvent Name,Trans SMILES,Reaction SMILES,Tested Condition
-T-0,1,C1=CC(=CC=C1C(=O)O)Br,C(CN)C(=O)N,C[NH+]1c2ccccc2-c2ccccc2[Pd-2]1(OS(C)(=O)=O)[P+](C(C)(C)C)(C(C)(C)C)C(C)(C)C,CCN=P(N=P(N(C)C)(N(C)C)N(C)C)(N(C)C)N(C)C,CS(C)=O,C1=CC(=CC=C1C(=O)O)NCCC(=O)N,p(tbu)3-pd-g4,P2Et,DMSO
