@@ -1,0 +1,2 @@
+Transformation ID,Pred Rank,Aryl Halide SMILES,Amine SMILES,Catalyst SMILES,Base SMILES,Solvent SMILES,Product SMILES,Catalyst Name,Base Name,Solvent Name,Trans SMILES,Reaction SMILES,Tested Condition,Prior Fail Count,pred_probability
+T-0,,COC1=C(C2CC2)C(NC(C3=CC(Br)=CN=C3C)=O)=CC=N1,CNC1CCN(C(OC(C)(C)C)=O)CC1,,,,COC1=C(C2CC2)C(NC(C3=CC(N(C)C4CCN(CC4)C(OC(C)(C)C)=O)=CN=C3C)=O)=CC=N1,,,,,,FALSE,,
